@@ -14,7 +14,9 @@ This repository contains my solutions to the Problem Set 2019 for the module Pro
 
 ### What each file contains
 
-1. sumupto.py contains my solutions to problem 1 in the problem set.
+1. sumupto.py contains my solution to problem 1 in the problem set.
+2. begins-with.t.py contains my solution tp problem 2 in the problem set
+
 
 ### References
 
