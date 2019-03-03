@@ -13,19 +13,19 @@ i=1
 # Checking whether user_num is a positive integer
 if(user_num > 0):
 
-# Initialize count variable
+    # Initialize count variable
     count = 0
     
-# Loop i values and condition
+    # Loop i values and condition
     while(i <= user_num):
 
-# Adding value of i to the count variable for new count
+        # Adding value of i to the count variable for new count
         count = count + i 
 
-# Incrementing the value of i by 1
+        # Incrementing the value of i by 1
         i = i + 1
 
-# Print the total count
+    # Print the total count
     print(count)
 
 else:
