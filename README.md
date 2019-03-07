@@ -22,3 +22,5 @@ This repository contains my solutions to the Problem Set 2019 for the module Pro
 ### References
 
 [Python documentation](https://docs.python.org/3/tutorial/index.html) - I used Python 3 documentation in my solutions, as commented in the video
+
+[Stack overflow](https://stackoverflow.com) - I used Stack Overflow in some of my solutions, as commented in the code
