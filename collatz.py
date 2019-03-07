@@ -7,6 +7,8 @@ user_input = int(input("Please enter a positive integer: "))
 # Print initial value
 print(user_input, end =' ')
 
+# Referenced: Stack Overflow - https://stackoverflow.com/a/51457215
+
 # function which accepts user_input and performs calculation
 def collatz(number):
     # Check to see if the number is even
