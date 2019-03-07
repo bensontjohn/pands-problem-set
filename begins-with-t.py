@@ -1,7 +1,7 @@
 # Benson Thomas John, 2019
 # Program that outputs whether or not today is a day that begins with the letter T. 
 
-Referenced: https://docs.python.org/3/library/datetime.html?highlight=date#module-datetime
+# Referenced: https://docs.python.org/3/library/datetime.html?highlight=date#module-datetime
 
 # import date class from datetime module
 from datetime import date
