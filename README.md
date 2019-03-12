@@ -12,12 +12,16 @@ This repository contains my solutions to the Problem Set 2019 for the module Pro
 
 1. Make sure you have Python installed.
 
-### What each file contains
+### Each file contains my solutions to the problems in the problem set 
 
-1. sumupto.py contains my solution to problem 1 in the problem set.
-2. begins-with.t.py contains my solution to problem 2 in the problem set
-3. divisors.py contains my solution to problem 3 in the problem set
-
+1. sumupto.py 
+2. begins-with.t.py 
+3. divisors.py 
+4. collatz.py
+5. primes.py
+6. secondstring.py
+7. squareroot.py
+8. datetime.py
 
 ### References
 
