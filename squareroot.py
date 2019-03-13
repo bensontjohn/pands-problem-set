@@ -1,3 +1,5 @@
+# Benson Thomas John, 2019
+# Program that takes a positive ﬂoating point number as input and outputs an approximation of its square root.
 
 # import the math module  
 import math  
