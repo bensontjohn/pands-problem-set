@@ -1,7 +1,8 @@
 # Benson Thomas John, 2019
 # Program that prints all numbers between 1,000 and 10,000 that are divisible by 6 but not 12.  
 
-# Referenced: https://docs.python.org/3/tutorial/controlflow.html
+# Referenced: https://docs.python.org/3/tutorial/controlflow.html,
+            : https://docs.python.org/3/library/functions.html#func-range
 
 # loop through the numbers from 1000 to NOT including 10000
 for num in range(1000, 10000):
