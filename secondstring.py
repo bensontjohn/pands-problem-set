@@ -5,12 +5,11 @@
 user_input = input("Please enter a sentence: ")
 
 # Referenced: # https://stackoverflow.com/a/47085688
-# https://www.programiz.com/python-programming/methods/built-in/slice
-
 
 # Convert the string to array using split method
 arr_input = user_input.split(' ')
 
+# Adapted: https://www.programiz.com/python-programming/methods/built-in/slice
 # obj[start:stop:step] - using indexing syntax
 odd_list = arr_input[0::2]
 
