@@ -41,4 +41,4 @@ print(present_time.strftime("%A, %B %d" + suffix(num) + " %Y" + " at " + strip_l
 
 
 
-# https://stackoverflow.com/q/38142478
+
