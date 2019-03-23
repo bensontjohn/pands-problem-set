@@ -5,7 +5,7 @@
 user_input = int(input("Please enter a positive integer: "))
 
 # Referenced: Stack Overflow - https://stackoverflow.com/a/51457215
-            : https://docs.python.org/3/tutorial/controlflow.html  - used this reference for end = ' ' used inside the print function
+#           : https://docs.python.org/3/tutorial/controlflow.html  - used this reference for end = ' ' used inside the print function
             
 
 # Print initial value
@@ -21,7 +21,7 @@ def collatz(number):
         return number // 2
     # Check to see if the number is not even
     elif number % 2 == 1:
-        Calculate the new number
+        # Calculate the new number
         result = 3 * number + 1
         print(result, end=' ')
         #returns the result
