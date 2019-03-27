@@ -23,6 +23,7 @@ This repository contains my solutions to the Problem Set 2019 for the module Pro
 7. squareroot.py
 8. datetime.py
 9. second.py
+10. plot_function.py
 
 ### References used in my solutions as commented in the code:
 
