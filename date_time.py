@@ -10,7 +10,7 @@ import datetime
 present_time = datetime.datetime.now()
 
 
-# Reference: https://stackoverflow.com/a/52045942
+# Adapted: https://stackoverflow.com/a/52045942
 
 # function to add suffix for the day number in the date
 def suffix(day_num):
