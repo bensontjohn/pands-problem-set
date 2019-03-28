@@ -27,7 +27,7 @@ def collatz(number):
         #returns the result
         return result
 
-# Performs while loop until 'iser_input' becomes 1
+# Performs while loop until 'user_input' becomes 1
 while user_input != 1:
     # Passes 'user_input' to collatz() function until it arrives at '1'
     user_input = collatz(user_input)
