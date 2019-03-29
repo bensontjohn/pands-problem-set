@@ -5,11 +5,12 @@
 # import the math module  
 import math  
 
+# Take user input and convert to float type
 user_num = float(input("Please enter a positive number: "))  
 
 # Referenced : https://docs.python.org/3/library/math.html
 
-# Stores the square root of user_num to square_root
+# Stores the square root of user_num to square_root using sqrt method
 square_root = math.sqrt(user_num)
 
 # Print the approximation of square_root using round method with 1 decimal place
