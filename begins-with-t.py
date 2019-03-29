@@ -11,7 +11,7 @@ day = date.today().weekday()
 
 #Check whether the day either Tuesday or Thursday
 if(day == 1 or day == 3):
-    print("Yes - today begins with a T")
+    print("Yes - today begins with a T.")
 # Else prints No
 else:
-    print("No - today doesn't begin with a T")
+    print("No - today doesn't begin with a T.")
